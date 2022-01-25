@@ -1,0 +1,44 @@
+body{
+    font-family: 'Outfit', sans-serif;
+    text-align: center;
+    background-color: #D6E2F0;
+}
+
+#mainWrapper{
+    
+    margin-left: 720px;
+    text-align: center;
+    height: 500px;
+    width: 340px;
+     background-color: white;
+    border-radius:2em;
+    margin-top: 160px;
+   
+}
+
+h1{
+    font-size: 20px;
+}
+p{
+font-size: 15px;
+color: #7B879D;
+}
+
+.attribution{
+    font-size: 11px; text-align: center;
+    }
+
+.attribution a {
+        color: hsl(228, 45%, 44%); }
+
+#qrCode img{
+  
+    height: 300px;
+    margin-top: 20px;
+    border-radius: 2em;
+
+        }
+
+#slogan{
+    padding: 10px 37px 0px 37px;
+        }
